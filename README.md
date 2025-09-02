@@ -1,1 +1,1 @@
-# my-1st-project
+SCT_WD-1
